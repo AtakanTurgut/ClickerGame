@@ -37,7 +37,7 @@ namespace ClickerGame
                 pngDagger1.Enabled == false && pngDagger2.Enabled == false && pngDagger3.Enabled == false &&
                 pngBow1.Enabled == false && pngBow2.Enabled == false && pngBow3.Enabled == false &&
                 pngSpear1.Enabled == false && pngSpear2.Enabled == false && pngSpear3.Enabled == false &&
-                pngStaff1.Enabled == false && pngStaff21.Enabled == false && pngStaff22.Enabled == false &&
+                pngStaff1.Enabled == false && pngStaff21.Enabled == false || pngStaff22.Enabled == false &&
                 pngShield1.Enabled == false && pngShield2.Enabled == false && pngShield3.Enabled == false)
             {
                 lblStatus.Visible = true;

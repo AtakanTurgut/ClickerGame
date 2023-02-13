@@ -9,3 +9,14 @@ C:\Users\Excalibur\Desktop\ClickerGame\ClickerGame\ClickerGame\obj\Debug\Clicker
 C:\Users\Excalibur\Desktop\ClickerGame\ClickerGame\ClickerGame\obj\Debug\ClickerGame.csproj.CoreCompileInputs.cache
 C:\Users\Excalibur\Desktop\ClickerGame\ClickerGame\ClickerGame\obj\Debug\ClickerGame.exe
 C:\Users\Excalibur\Desktop\ClickerGame\ClickerGame\ClickerGame\obj\Debug\ClickerGame.pdb
+D:\Sdü Ders Notları\- Bilgisayar Müh\zClickerGame\ClickerGame\ClickerGame\bin\Debug\ClickerGame.exe.config
+D:\Sdü Ders Notları\- Bilgisayar Müh\zClickerGame\ClickerGame\ClickerGame\bin\Debug\ClickerGame.exe
+D:\Sdü Ders Notları\- Bilgisayar Müh\zClickerGame\ClickerGame\ClickerGame\bin\Debug\ClickerGame.pdb
+D:\Sdü Ders Notları\- Bilgisayar Müh\zClickerGame\ClickerGame\ClickerGame\obj\Debug\ClickerGame.csproj.AssemblyReference.cache
+D:\Sdü Ders Notları\- Bilgisayar Müh\zClickerGame\ClickerGame\ClickerGame\obj\Debug\ClickerGame.csproj.SuggestedBindingRedirects.cache
+D:\Sdü Ders Notları\- Bilgisayar Müh\zClickerGame\ClickerGame\ClickerGame\obj\Debug\ClickerGame.Form1.resources
+D:\Sdü Ders Notları\- Bilgisayar Müh\zClickerGame\ClickerGame\ClickerGame\obj\Debug\ClickerGame.Properties.Resources.resources
+D:\Sdü Ders Notları\- Bilgisayar Müh\zClickerGame\ClickerGame\ClickerGame\obj\Debug\ClickerGame.csproj.GenerateResource.cache
+D:\Sdü Ders Notları\- Bilgisayar Müh\zClickerGame\ClickerGame\ClickerGame\obj\Debug\ClickerGame.csproj.CoreCompileInputs.cache
+D:\Sdü Ders Notları\- Bilgisayar Müh\zClickerGame\ClickerGame\ClickerGame\obj\Debug\ClickerGame.exe
+D:\Sdü Ders Notları\- Bilgisayar Müh\zClickerGame\ClickerGame\ClickerGame\obj\Debug\ClickerGame.pdb
