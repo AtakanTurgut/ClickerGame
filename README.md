@@ -11,4 +11,5 @@ For starters, every click on the enemy earns 5G.
 
 After purchasing all the items, "You Won!!!" will appear on the screen.
 
+![](/pictures/gifClickerGame.gif)
 ![](/pictures/ClickerGameSS.PNG)
